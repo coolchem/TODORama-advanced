@@ -1,11 +1,16 @@
-# TODORama 
+# TODORama Advanced 
 [![Coverage Status](https://coveralls.io/repos/github/coolchem/TODORama/badge.svg?branch=master)](https://coveralls.io/github/coolchem/TODORama?branch=master) [![Build Status](https://travis-ci.org/coolchem/TODORama.svg?branch=master)](https://travis-ci.org/coolchem/TODORama)
-
-The purpose of this project is to showcase the capabilities of RamaJS Framework. 
 
 It is a Simple TODO app based of the [TodoMVC](http://todomvc.com/) guideline which helps developers to choose framework, based on the ease of implementation of exact same TODO application in different frameworks.
 
-[Check out the demo](https://my-rama-todo.herokuapp.com/#/)
+This project is an advanced version of [TODORama](https://github.com/coolchem/TODORama) Project.
+
+Purpose of this project is to showcase some new and advanced capabilities of RamaJS, like building Components and Skins, using multiple transcludes etc.
+ 
+Using these capabilities one can create advanced reusable components and compose them to create scalable and maintainable large scale applications.
+
+
+[Check out the demo](https://advanced-rama-todo.herokuapp.com/)
 
 ### Before we start
 
@@ -25,7 +30,7 @@ It is a Simple TODO app based of the [TodoMVC](http://todomvc.com/) guideline wh
 
     ````
     
-    git clone https://github.com/coolchem/TODORama.git
+    git clone https://github.com/coolchem/TODORama-advanced.git
     
     ````
     
