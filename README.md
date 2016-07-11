@@ -1,5 +1,5 @@
 # TODORama Advanced 
-[![Coverage Status](https://coveralls.io/repos/github/coolchem/TODORama/badge.svg?branch=master)](https://coveralls.io/github/coolchem/TODORama?branch=master) [![Build Status](https://travis-ci.org/coolchem/TODORama.svg?branch=master)](https://travis-ci.org/coolchem/TODORama)
+[![Coverage Status](https://coveralls.io/repos/github/coolchem/TODORama-advanced/badge.svg?branch=master)](https://coveralls.io/github/coolchem/TODORama?branch=master) [![Build Status](https://travis-ci.org/coolchem/TODORama-advanced.svg?branch=master)](https://travis-ci.org/coolchem/TODORama-advanced)
 
 It is a Simple TODO app based of the [TodoMVC](http://todomvc.com/) guideline which helps developers to choose framework, based on the ease of implementation of exact same TODO application in different frameworks.
 
