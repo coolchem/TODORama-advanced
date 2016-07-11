@@ -1,7 +1,7 @@
 import {View, rama, event} from "ramajs/dist/index";
 import {DOMElement} from "ramajs/dist/core/DOMElement";
-import {TODOItemEventInit} from "./events/TODOItemEvent";
-import {TODOItem} from "../service_system/models/TODOItem";
+import {TODOItem} from "../../../service_system/models/TODOItem";
+import {TODOItemEventInit} from "../../events/TODOItemEvent";
 
 const ENTER_KEY = 13;
 const ESCAPE_KEY = 27;
